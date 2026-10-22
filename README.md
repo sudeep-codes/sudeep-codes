@@ -27,18 +27,12 @@ building full-stack web apps and AI/ML projects. Open to SDE, full-stack, and AI
 </p>
 
 ## 📊 GitHub stats
+## 📊 GitHub stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeep-codes&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-codes&layout=compact&theme=aura&langs_count=6" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeep-codes&show_icons=true&theme=aura&count_private=true&hide_rank=true&cache_seconds=43200" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-codes&layout=compact&theme=aura&langs_count=6&cache_seconds=43200" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudeep-codes&theme=aura&hide_border=false" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeep-codes&theme=react-dark&hide_border=true&bg_color=17151c&color=a277ff&line=a277ff&point=61ffca" alt="Contribution graph" />
-</p>
-
----
-<p align="center">⭐ Thanks for stopping by!</p>
