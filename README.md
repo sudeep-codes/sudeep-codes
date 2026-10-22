@@ -27,7 +27,6 @@ building full-stack web apps and AI/ML projects. Open to SDE, full-stack, and AI
 </p>
 
 ## 📊 GitHub stats
-## 📊 GitHub stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeep-codes&show_icons=true&theme=aura&count_private=true&hide_rank=true&cache_seconds=43200" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-codes&layout=compact&theme=aura&langs_count=6&cache_seconds=43200" alt="Top languages" />
