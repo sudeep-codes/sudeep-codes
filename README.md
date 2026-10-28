@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/sudeep-kumar-sahu-3a1537343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/sudeep_codes/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:work.sudeep04@gmail.com"><img src="https://img.shields.io/badge/Email-61ffca?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sudeep-codes&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -14,7 +15,17 @@
   I build full-stack web apps and AI/ML projects, and I'm open to <b>SDE, full-stack, and AI/data internships</b>.
 </p>
 
----
+<p align="center"><img src="divider.svg" width="100%" alt=""></p>
+
+### 👨‍💻 About Me
+
+<p align="center">
+  <img src="about-terminal.svg" alt="About Sudeep" width="100%">
+</p>
+
+<p align="center"><img src="highlights.svg" width="100%" alt="Highlights: 200+ LeetCode problems, 100+ Medium, CGPA 8.36, 2 hackathons, 150+ V-Ally test users"></p>
+
+<p align="center"><img src="divider.svg" width="100%" alt=""></p>
 
 ### 🚀 Featured Projects
 
@@ -26,7 +37,7 @@
   </tr>
 </table>
 
----
+<p align="center"><img src="divider.svg" width="100%" alt=""></p>
 
 ### 💻 Tech Stack
 
@@ -59,7 +70,7 @@
   </tr>
 </table>
 
----
+<p align="center"><img src="divider.svg" width="100%" alt=""></p>
 
 ### 📊 GitHub Stats
 
@@ -72,6 +83,13 @@
   <img src="https://streak-stats.demolab.com?user=sudeep-codes&theme=aura" alt="GitHub streak" />
 </p>
 
----
+### 🐍 Contribution Snake
 
-<p align="center">⭐ Thanks for stopping by. Feel free to reach out!</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudeep-codes/sudeep-codes/output/github-snake-dark.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sudeep-codes/sudeep-codes/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center"><img src="footer.svg" width="100%" alt="Thanks for stopping by"></p>
