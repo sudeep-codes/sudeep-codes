@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://findsudeep.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-a277ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.sudeepcodes.me/"><img src="https://img.shields.io/badge/Portfolio-a277ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sudeep-kumar-sahu-3a1537343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/sudeep_codes/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:work.sudeep04@gmail.com"><img src="https://img.shields.io/badge/Email-61ffca?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
