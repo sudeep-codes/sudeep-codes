@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sudeepcodes.me/"><img src="https://img.shields.io/badge/Portfolio-a277ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.sudeepcodes.me/"><img src="https://img.shields.io/badge/Portfolio-ff2d3d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sudeep-kumar-sahu-3a1537343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/sudeep_codes/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:work.sudeep04@gmail.com"><img src="https://img.shields.io/badge/Email-61ffca?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sudeep-codes&label=Profile%20views&color=a277ff&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:work.sudeep04@gmail.com"><img src="https://img.shields.io/badge/Email-2f6bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sudeep-codes&label=Profile%20views&color=ff2d3d&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
   <tr>
     <td><b>ML &amp; AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/XGBoost-61ffca?style=flat-square" alt="XGBoost" />
+      <img src="https://img.shields.io/badge/XGBoost-2f6bff?style=flat-square" alt="XGBoost" />
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
@@ -75,12 +75,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeep-codes&show_icons=true&theme=aura&count_private=true&hide_rank=true&cache_seconds=43200" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-codes&layout=compact&theme=aura&langs_count=6&cache_seconds=43200" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudeep-codes&show_icons=true&theme=dark&title_color=ff2d3d&icon_color=2f6bff&text_color=cfd6ff&bg_color=0b0f1e&border_color=2f6bff&count_private=true&hide_rank=true&cache_seconds=43200" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-codes&layout=compact&theme=dark&title_color=ff2d3d&text_color=cfd6ff&bg_color=0b0f1e&border_color=2f6bff&langs_count=6&cache_seconds=43200" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudeep-codes&theme=aura" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=sudeep-codes&background=0B0F1E&ring=FF2D3D&fire=FF2D3D&currStreakNum=EDECEE&sideNums=EDECEE&currStreakLabel=7AB8FF&sideLabels=FF5B68&dates=8A92B8&stroke=2F6BFF&border=2F6BFF" alt="GitHub streak" />
 </p>
 
 ### 🐍 Contribution Snake
